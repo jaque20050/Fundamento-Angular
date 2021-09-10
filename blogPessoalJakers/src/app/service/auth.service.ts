@@ -21,10 +21,10 @@ export class AuthService {
     return this.http.post<Usuario>('https://blogpessoaljakers.herokuapp.com/usuario/cadastrar', usuario)
   }
 
-  logado(){
-    let ok:boolean = false
+  logado() {
+    let ok: boolean = false
 
-    if(environment.token != ''){
+    if (environment.token != '') {
       ok = true
     }
     return ok
