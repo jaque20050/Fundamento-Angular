@@ -32,3 +32,8 @@ Clicando no botão nova postagem, irá descer um modal, onde o usuário cadastra
 
 Caso não encontre seu tema, pode cadastrar um novo em cadastrar um novo tema
 ![cadastrarTema](https://user-images.githubusercontent.com/55770645/133831493-546eaa37-4dc5-4073-b442-3a9a920ff374.png)
+
+Sendo possivel editar e apagar tema, caso digite errado ou deseja apagar
+
+![atualizarTema](https://user-images.githubusercontent.com/55770645/133831676-af9df931-d638-4e8e-a870-8324f3f75b50.png)
+![apagarTema](https://user-images.githubusercontent.com/55770645/133831685-d294f4e8-7c90-4fd7-b814-55b6b6d0d96b.png)
