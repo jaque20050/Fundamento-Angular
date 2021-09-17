@@ -4,7 +4,7 @@ Projeto BlogPessoal desenvolvido na Generation Brasil com consumo de API, sendo 
 
 Ferramentas Ustilizadas:
 
-@Angular;
+#Angular;
 Boostrap;
 CSS;
 HTML;
