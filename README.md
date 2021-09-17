@@ -27,3 +27,6 @@ Tela cadastro solicitando dados do usuário para Login, confirmação de senha p
 Tela postagem, após Logar o usuário será levado até postagem, onde pode cadastrar nova postagem, ver todas as postagem, minhas postagem e postagem por tema 
 ![telaPostagem](https://user-images.githubusercontent.com/55770645/133831130-d205af0a-5342-4393-b0f3-7b9f8ebaec20.png)
 
+Clicando no botão nova postagem, irá descer um modal, onde o usuário cadastra uma nova postagem, para aparecer na tela anterior
+![criarPostagem](https://user-images.githubusercontent.com/55770645/133831317-56aa1f79-7121-4efa-95fe-c9ad0c014745.png)
+
