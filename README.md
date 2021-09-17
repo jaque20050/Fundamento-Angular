@@ -30,3 +30,5 @@ Tela postagem, após Logar o usuário será levado até postagem, onde pode cada
 Clicando no botão nova postagem, irá descer um modal, onde o usuário cadastra uma nova postagem, para aparecer na tela anterior
 ![criarPostagem](https://user-images.githubusercontent.com/55770645/133831317-56aa1f79-7121-4efa-95fe-c9ad0c014745.png)
 
+Caso não encontre seu tema, pode cadastrar um novo em cadastrar um novo tema
+![cadastrarTema](https://user-images.githubusercontent.com/55770645/133831493-546eaa37-4dc5-4073-b442-3a9a920ff374.png)
