@@ -18,9 +18,16 @@ export class TemaService {
   buscarPorTema(): Observable<Tema[]>{
     return this.http.get<Tema[]>('https://blogpessoaljakers.herokuapp.com/tema', this.token)
   }
-
-  postTema(tema:Tema): Observable<Tema>{
+  buscarPorIdTema(id: number):Observable<Tema>{
+    return this.http.get<Tema>(`https://blogpessoaljakers.herokuapp.com/tema/${id}`, this.token)
+  }
+  criarTema(tema:Tema): Observable<Tema>{
     return this.http.post<Tema>('https://blogpessoaljakers.herokuapp.com/tema/criar',tema,this.token)
   }
-  
+  salvarTema(tema:Tema):Observable<Tema>{
+    return this.http.put<Tema>('https://blogpessoaljakers.herokuapp.com/tema/salvar',tema,this.token)
+  }
+  deletarTema(id:number){
+    return this.http.delete(`https://blogpessoaljakers.herokuapp.com/tema/${id}`,this.token)
+  }
 }
