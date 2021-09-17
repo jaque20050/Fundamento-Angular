@@ -13,5 +13,4 @@ Eclipse;
 Postman para teste;
 Swagger;!
 
-Tela principal do BlogPessoal para Login do usuário
-[telaInicial](https://user-images.githubusercontent.com/55770645/133827567-12bbed11-163d-490c-99ae-ee126cd9c06a.png)
+Tela principal do BlogPessoal para Login do usuário[telaInicial](https://user-images.githubusercontent.com/55770645/133827567-12bbed11-163d-490c-99ae-ee126cd9c06a.png)
